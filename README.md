@@ -1,12 +1,12 @@
 # CallHistory
 
-To run server:
+##To run server:
 npm i
 npm start
 
-edit the db connection string in \myServer\db-service\index.js:
+##Edit the db connection string in \myServer\db-service\index.js:
 'postgres://{user}:{password}@{host:port}/{db name}'
 
-To run client:
+##To run client:
 npm i 
 npm start
